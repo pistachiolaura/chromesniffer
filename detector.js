@@ -1,10 +1,10 @@
 /**
- * Chrome AppSniffer
+ * Is it There? Adapted from Chrome AppSniffer
  *
- * Detect apps run on current page and send back to background page.
+ * Detect if test script is present on current page and send back to background page.
  * Some part of this script was refered from Wappalyzer Firefox Addon.
  *
- * @author Bao Nguyen <contact@nqbao.com>
+ * @author adapted by PistachioLaura from code by Bao Nguyen <contact@nqbao.com>
  * @license GPLv3
  **/
 
